@@ -1,0 +1,13 @@
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\bin\Debug\WPF_listBoxItem_DataBinding.exe.config
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\bin\Debug\WPF_listBoxItem_DataBinding.exe
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\bin\Debug\WPF_listBoxItem_DataBinding.pdb
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\obj\Debug\WPF_listBoxItem_DataBinding.csprojResolveAssemblyReference.cache
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\obj\Debug\MainWindow.baml
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\obj\Debug\MainWindow.g.cs
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\obj\Debug\App.g.cs
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\obj\Debug\WPF_listBoxItem_DataBinding_MarkupCompile.cache
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\obj\Debug\WPF_listBoxItem_DataBinding.g.resources
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\obj\Debug\WPF_listBoxItem_DataBinding.Properties.Resources.resources
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\obj\Debug\WPF_listBoxItem_DataBinding.csproj.GenerateResource.Cache
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\obj\Debug\WPF_listBoxItem_DataBinding.exe
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_listBoxItem_DataBinding\obj\Debug\WPF_listBoxItem_DataBinding.pdb
