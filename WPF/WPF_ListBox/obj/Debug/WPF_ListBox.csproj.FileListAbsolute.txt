@@ -1,0 +1,9 @@
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_ListBox\obj\Debug\MainWindow.baml
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_ListBox\obj\Debug\MainWindow.g.cs
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_ListBox\obj\Debug\App.g.cs
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_ListBox\obj\Debug\WPF_ListBox_MarkupCompile.cache
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_ListBox\obj\Debug\WPF_ListBox.g.resources
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_ListBox\obj\Debug\WPF_ListBox.Properties.Resources.resources
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_ListBox\obj\Debug\WPF_ListBox.csproj.GenerateResource.Cache
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_ListBox\bin\Debug\WPF_ListBox.exe.config
+C:\_data\_workspace\_VillaM_Git\WPF\WPF_ListBox\obj\Debug\WPF_ListBox.csprojResolveAssemblyReference.cache

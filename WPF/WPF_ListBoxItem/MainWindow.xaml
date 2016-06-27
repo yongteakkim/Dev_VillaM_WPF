@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPF_ListBoxItem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox Height="20" HorizontalAlignment="Left" Margin="5,10,5,5"
+                         Name="LeftTop_TextBox" VerticalAlignment="Top" Width="125" />
+        <Button Height="23" Margin="140,10,0,0" Name="LeftTop_Button" VerticalAlignment="Top"
+                        HorizontalAlignment="Left" Width="80" Click="button1_Click" Content="Add Item"/>
+        <ListBox Margin="5,40,0,25" Name="ListBox_Left" HorizontalAlignment="Left" VerticalAlignment="Top" Width="220" Height="200">
+            <ListBoxItem Content="Coffee"></ListBoxItem>
+            <ListBoxItem Content="Tea"></ListBoxItem>
+            <ListBoxItem Content="Juice"></ListBoxItem>
+            <ListBoxItem Content="Milk"></ListBoxItem>
+            <ListBoxItem Content="Shake"></ListBoxItem>
+        </ListBox>
+    </Grid>
+</Window>
