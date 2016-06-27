@@ -1,0 +1,16 @@
+C:\_data\_workspace\VillaM_Git\WPF\WPF\bin\Debug\WPF.exe.config
+C:\_data\_workspace\VillaM_Git\WPF\WPF\bin\Debug\WPF.exe
+C:\_data\_workspace\VillaM_Git\WPF\WPF\bin\Debug\WPF.pdb
+C:\_data\_workspace\VillaM_Git\WPF\WPF\obj\Debug\WPF.csprojResolveAssemblyReference.cache
+C:\_data\_workspace\VillaM_Git\WPF\WPF\obj\Debug\MainWindow.baml
+C:\_data\_workspace\VillaM_Git\WPF\WPF\obj\Debug\MainWindow.g.cs
+C:\_data\_workspace\VillaM_Git\WPF\WPF\obj\Debug\App.g.cs
+C:\_data\_workspace\VillaM_Git\WPF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\_data\_workspace\VillaM_Git\WPF\WPF\obj\Debug\WPF.g.resources
+C:\_data\_workspace\VillaM_Git\WPF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\_data\_workspace\VillaM_Git\WPF\WPF\obj\Debug\WPF.csproj.GenerateResource.Cache
+C:\_data\_workspace\VillaM_Git\WPF\WPF\obj\Debug\WPF.exe
+C:\_data\_workspace\VillaM_Git\WPF\WPF\obj\Debug\WPF.pdb
+C:\_data\_workspace\_VillaM_Git\WPF\WPF\bin\Debug\WPF.exe.config
+C:\_data\_workspace\_VillaM_Git\WPF\WPF\obj\Debug\WPF.exe
+C:\_data\_workspace\_VillaM_Git\WPF\WPF\obj\Debug\WPF.pdb
